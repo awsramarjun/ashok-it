@@ -1,0 +1,8 @@
+add the new line from this new floder 
+
+
+to create the floder form fea-devoper add to the git fea-branch 
+
+aws-ec2-user sudo isntall java 
+
+root -sudo su 
